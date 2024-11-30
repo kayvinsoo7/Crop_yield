@@ -1,0 +1,7 @@
+Model,Test,P-value
+XGBoost,t-test,2.4832215665462797e-25
+Random Forest,t-test,8.190265818244213e-42
+SGDClassifier,t-test,0.00947005313037473
+Logistic Regression,t-test,0.004820074904048011
+CatBoost,t-test,1.8745834110103278e-24
+Gradient Boosting,t-test,7.015609331007744e-13

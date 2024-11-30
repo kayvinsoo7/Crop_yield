@@ -1,0 +1,7 @@
+Model,Generalizability Ratio
+XGBoost,1.01322163911977
+Random Forest,1.0262839624105853
+SGDClassifier,0.9905106899505753
+Logistic Regression,0.9896532718109756
+CatBoost,1.0075432886492028
+Gradient Boosting,1.0048745592703798
